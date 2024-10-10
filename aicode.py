@@ -1,6 +1,6 @@
 # IP Snooper By ChatGpt
 
-import requests
+import requests  # to use this import you'd best install the requests libarary using  "pip install requests"
 
 # Function to get public IP address of the current machine
 def get_public_ip():
